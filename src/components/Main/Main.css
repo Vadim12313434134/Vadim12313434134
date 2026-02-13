@@ -1,0 +1,44 @@
+
+@media (min-width:0px) and (max-width:1025px){
+.Main-div{
+    width: 100%;
+  max-width: 320px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body{
+  background-color: white ;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content{
+  max-width: 220px;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  align-items: center;
+}
+
+.text{
+    color:#F19CBB;
+    font-size: 45px;
+    margin-left: -15px;
+}
+
+.gap{
+    margin-top: -30px;
+}
+
+.btn{
+    margin-left: 55px;
+    background-color: #F19CBB;
+}
+
+.svg{
+    width: 15rem;
+    margin-left: -9px;
+}}
