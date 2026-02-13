@@ -1,0 +1,50 @@
+.text-2{
+    color:black;
+    font-size: 30px;
+}
+
+.content-2{
+    text-align: center;
+    margin-top: -220px;
+    
+}
+
+.gifs{
+    display: flex;
+    gap:10px;
+}
+
+.gifs-2{
+    display:flex ;
+    gap: 10px;
+    margin-top: 8px
+}
+
+.toji{
+    width: 10rem;
+    border-radius: 20px;
+}
+
+@media (min-width:0px) and (max-width:320px){
+.text-2{
+    color:black;
+    font-size: 30px;
+}
+
+.content-2{
+    text-align: center;
+    margin-top: -220px;
+    
+}
+
+.gifs{
+    display: flex;
+    gap:5px;
+}
+
+.toji{
+    width: 8rem;
+    margin-left: 18px;
+}
+
+}

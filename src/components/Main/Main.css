@@ -1,5 +1,5 @@
 
-@media (min-width:0px) and (max-width:1025px){
+@media (min-width:0px) and (max-width:2000px){
 .Main-div{
     width: 100%;
   max-width: 320px;
@@ -19,14 +19,19 @@ body{
   max-width: 220px;
   padding: 2rem;
   border-radius: 10px;
-  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 10px rgba(0,0,0,0.3);
   align-items: center;
+  text-align: center;
+}
+
+.for-you{
+  margin-left: 20px;
 }
 
 .text{
-    color:#F19CBB;
+    color:#9b2d30;
     font-size: 45px;
-    margin-left: -15px;
+    margin-left: -20px;
 }
 
 .gap{
@@ -34,8 +39,9 @@ body{
 }
 
 .btn{
-    margin-left: 55px;
-    background-color: #F19CBB;
+    margin-left: 5px;
+    background-color: #9b2d30;
+    color: white;
 }
 
 .svg{
